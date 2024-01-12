@@ -1,0 +1,6 @@
+ALL PASSWORDS ARE	india123(lowercase)
+
+
+CLIENT		USER NAME		PASSWORD   
+800		sapuser			india123
+810		sapuser			india123			
